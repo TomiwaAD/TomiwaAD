@@ -1,5 +1,4 @@
 # 👋 Hello, I'm Tomiwa!
-# 👋 Hello, I'm [Your Name]!
 
 I am a data analyst passionate about transforming raw data into actionable insights. With a strong background in [mention any specific industries or areas of expertise], I excel at using data to drive business decisions, optimize processes, and uncover trends.
 
