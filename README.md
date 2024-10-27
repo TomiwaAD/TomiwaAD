@@ -1,11 +1,11 @@
 # 👋 Hello, I'm Tomiwa!
 
-I am a data analyst passionate about transforming raw data into actionable insights. With a strong background in [mention any specific industries or areas of expertise], I excel at using data to drive business decisions, optimize processes, and uncover trends.
+I am a data analyst passionate about transforming raw data into actionable insights.I excel at using data to drive business decisions, optimize processes, and uncover trends.
 
 ## 🔧 Skills & Tools
 
 ### Data Analysis
-- **Languages:** Python, R, SQL
+- **Languages:** Python, SQL
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 - **Data Visualization:** Power BI, Tableau, Matplotlib, Plotly
 - **Databases:** MySQL, PostgreSQL, MongoDB
