@@ -17,22 +17,7 @@ I am a data analyst passionate about transforming raw data into actionable insig
 ### Other Tools
 - Git, GitHub, Jupyter Notebooks, VS Code, Excel
 
-## 📝 Projects
 
-### [Project 1: Name]
-**Description:** A brief explanation of the project, including the problem you solved and the data you used. Highlight key findings and the impact.
-- Tools used: Python, SQL, Tableau
-- [Link to project repository](#)
-
-### [Project 2: Name]
-**Description:** Another project description focusing on a different aspect of data analysis (e.g., predictive modeling, A/B testing, etc.)
-- Tools used: R, Power BI
-- [Link to project repository](#)
-
-### [Project 3: Name]
-**Description:** Focus on a large-scale project or a unique challenge solved with your data skills.
-- Tools used: Python, Scikit-learn, Matplotlib
-- [Link to project repository](#)
 
 ## 🌱 Currently Learning
 - Deepening my knowledge of **machine learning algorithms** and exploring **big data technologies** like Spark and Hadoop.
