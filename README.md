@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Tomiwa!
+# 👋 Hello, I'm Daniel!
 
 I am a data analyst passionate about transforming raw data into actionable insights.I excel at using data to drive business decisions, optimize processes, and uncover trends.
 
